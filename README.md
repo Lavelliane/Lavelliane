@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently a 3rd year Computer Engineering Student from the University of San Carlos<br>🔭 I’m a former Software Developer for Symph.co<br>⚡ I'm a former Client Success Specialist for Dashlabs.ai<br>👯 I’m looking to collaborate on different projects at school<br>🤝 I’m looking for help with Machine Learning and CI/CD Stuff<br>🌱 I’m currently learning a lot of different thingsss<br>💬 Ask me about anything tech related or maybe love related xD<br>⚡ Fun fact. Coffee runs through my veins
+:blue_heart: CTO for Google Developer Student Clubs - San Carlos <br> :100: Microsoft Learn Student Ambassador <br> 🔭 I’m currently a 3rd year Computer Engineering Student from the University of San Carlos<br>🔭 I’m a former Software Developer for Symph.co<br>⚡ I'm a former Client Success Specialist for Dashlabs.ai<br>👯 I’m looking to collaborate on different projects at school<br>🤝 I’m looking for help with Machine Learning and CI/CD Stuff<br>🌱 I’m currently learning a lot of different thingsss<br>💬 Ask me about anything tech related or maybe love related xD<br>⚡ Fun fact. Coffee runs through my veins
 
 
 ## 🌐 Socials:
