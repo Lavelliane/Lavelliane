@@ -13,11 +13,11 @@
 - 📄 Know about my experiences **https://flowcv.com/resume/bvqasrt647**
 - ⚡ Fun fact **I can drink lots of coffee without dying**
 
-<div> <a href="https://www.linkedin.com/in/Jhury Kevin Lastre" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<div> <a href="https://www.linkedin.com/in/jhury-kevin-lastre-3bb6541aa" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/Lavelliane" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/Jhury Kevin Lastre" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="Jhury Kevin Lastre" height="30" width="40" /></a></p>
+<a href="https://linkedin.com/in/jhury-kevin-lastre-3bb6541aa" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="jhury-kevin-lastre-3bb6541aa" height="30" width="40" /></a></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -60,8 +60,8 @@
 <div align="center">
 <a href="https://github.com/Lavelliane">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lavelliane&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lavelliane&theme=date_night" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lavelliane&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lavelliane&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lavelliane&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lavelliane&theme=date_night" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lavelliane&theme=2077" height="180em" />
 </div>
