@@ -4,10 +4,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Lavelliane&theme=" alt="Lavelliane" /></a> </p>
 
-- 🔭 I’m currently working on **Object Detection Model for Microplastics**
+- 🔭 I’m currently working on **Post Quantum Cryptography (PQC)**
 - 🤝 I’m looking for help with **DevOps stuff**
 - 🌱 I’m currently learning **more advanced features of Node and Devops**
-- 💬 Ask me about **React, MERN, and anything JS**
+- 💬 Ask me about **React, MERN, and anything JS/TS**
 
 - 👨‍💻 All of my projects are available at **https://github.com/Lavelliane?tab=repositories**
 - 📄 Know about my experiences **https://flowcv.com/resume/bvqasrt647**
