@@ -4,9 +4,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Lavelliane&theme=" alt="Lavelliane" /></a> </p>
 
-- 🔭 I’m currently working on **Post Quantum Cryptography (PQC)**
-- 🤝 I’m looking for help with **DevOps stuff**
-- 🌱 I’m currently learning **more advanced features of Node and Devops**
+- 🔭 I’m currently working on **Formal Verification of Security Protocols, Remote SIM Provisioning and Mobile Security**
+- 🌱 I’m currently learning **Enterprise level Software Architecture**
 - 💬 Ask me about **React, MERN, and anything JS/TS**
 
 - 👨‍💻 All of my projects are available at **https://github.com/Lavelliane?tab=repositories**
