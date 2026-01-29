@@ -1,25 +1,35 @@
-<h1 align="center">Hi 👋, I'm Fretchel</h1>
-<h3 align="center">A passionate designer and developer from the Philippines</h3>
+# Jhury Kevin Lastre
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lavelliane&label=Profile%20views&color=0e75b6&style=flat" alt="lavelliane" /> </p>
+Software Engineer & Cybersecurity Researcher based in Seoul, South Korea.
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lavelliane" alt="lavelliane" /></a> </p> -->
+Building secure systems and researching 5G/6G security protocols at [MobiSec Lab, Kookmin University](https://mobisec.kookmin.ac.kr). Leading [OWASP Cebu](https://owasp.org/www-chapter-cebu/).
 
-- 🔭 I’m currently working on **BookASmile**
+## Current Focus
 
-- 👨‍💻 All of my projects are available at [fretchel.com](fretchel.com)
+- 5G/6G Security & eSIM Protocols
+- Post-Quantum Cryptography Migration
+- Security Protocol Formal Verification
+- Full-stack Development with Next.js
 
-- 💬 Ask me about **UI/UX Design**
+## Recent Work
 
-- 📫 How to reach me **fretchelworkspace@gmail.com**
+- **[Revisiting M2M RSP](https://authors.elsevier.com/sd/article/S1110016825012311)** — First integrated security analysis of M2M Remote SIM Provisioning (Alexandria Engineering Journal, 2026)
+- **[6G Roaming Security](https://www.mdpi.com/2076-3417/16/1/508)** — Experimental analysis of SUCI-based DoS attacks (Applied Sciences, 2026)
+- **[5G Intrusion Detection](https://www.techscience.com/CMES/v145n2/64590)** — Deep learning-based IDS for cloud-native 5G (CMES, 2025)
+- **[TLS 1.3 Optimization](https://www.mdpi.com/1424-8220/25/19/6144)** — Novel 0-RTT FS protocol for 5G roaming (Sensors, 2025)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+## Stack
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+TypeScript • React • Next.js • Node.js • Python • Docker • Kubernetes • GraphQL • PostgreSQL
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lavelliane&show_icons=true&locale=en&layout=compact" alt="lavelliane" /></p>
+## Embedded
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lavelliane&show_icons=true&locale=en" alt="lavelliane" /></p>
+C • x86 Assembly 
+
+## Links
+
+[Website](https://jhury-lastre.bio) • [LinkedIn](https://linkedin.com/in/jhury-kevin-lastre-3bb6541aa) • [Google Scholar](https://scholar.google.com/citations?user=wpQqllwAAAAJ) • [OWASP Cebu](https://medium.com/owasp-cebu)
+
+---
+
+*Currently: MS Cybersecurity @ Kookmin University | Previously: Software Engineer @ Tax Maverick, Lanex, Purple Cow*
