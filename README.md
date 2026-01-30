@@ -87,7 +87,7 @@ Leading cybersecurity community initiatives, organizing workshops, and creating 
 
 **Microsoft Learn Student Ambassador** *(Apr 2023 - May 2024)*
 
-### Workshops & Training
+### Workshops as Speaker & Invited Talks
 
 **2024**
 - **Practical API Hacking on the Web** — OWASP Cebu Summer Workshop (Burpsuite, wfuzz, ffuf, Postman)
