@@ -17,6 +17,7 @@ Building secure systems and researching 5G/6G security protocols at [MobiSec Lab
 - **[6G Roaming Security](https://www.mdpi.com/2076-3417/16/1/508)** — Experimental analysis of SUCI-based DoS attacks (Applied Sciences, 2026)
 - **[5G Intrusion Detection](https://www.techscience.com/CMES/v145n2/64590)** — Deep learning-based IDS for cloud-native 5G (CMES, 2025)
 - **[TLS 1.3 Optimization](https://www.mdpi.com/1424-8220/25/19/6144)** — Novel 0-RTT FS protocol for 5G roaming (Sensors, 2025)
+- **[Formal Verification of RSP](https://ieeexplore.ieee.org/document/11012784)** — BAN Logic verification of Common Mutual Authentication (IEEE ICCT Pacific, 2025)
 
 ## Stack
 
