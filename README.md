@@ -78,7 +78,7 @@ Building secure systems and researching 5G/6G security protocols at [MobiSec Lab
 
 ### Leadership
 
-**Chapter Lead** @ [OWASP Cebu](https://owasp.org/www-chapter-cebu/) *(Jan 2023 - Present)*  
+**Chapter Lead** @ [OWASP Cebu](https://owasp.org/www-chapter-cebu/) *(Feb 2025 - Present)*  
 Leading cybersecurity community initiatives, organizing workshops, and creating educational content for web application security awareness in the Philippines
 
 **President** @ CoDE - University of San Carlos *(Aug 2023 - 2024)*
