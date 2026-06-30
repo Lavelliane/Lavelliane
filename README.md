@@ -35,18 +35,18 @@ Building secure systems and researching 5G/6G security protocols at [MobiSec Lab
 
 ## 💼 Experience
 
-**Cybersecurity Researcher** @ MobiSec Lab, Kookmin University *(Sep 2024 - Present)*  
+**Cybersecurity Researcher** @ MobiSec Lab, Kookmin University, Seoul, South Korea *(Sep 2024 - Present)*  
 - Machine learning for intrusion detection (RF, XGBoost, Isolation Forest, XAI/SHAP)
 - Performance testing on security protocols (M2M eSIM, Consumer eSIM, TLS 1.3)
 - Deployed 5G core network functions using Open5GS, Docker, and Kubernetes
 - Conducted pentests and vulnerability scanning on 5G cross-border roaming testbed
 
-**Software Engineer** @ Tax Maverick Software *(Aug 2024 - Present)*  
+**Lead Software Engineer** @ Tax Maverick Software, San Benito, Texas, USA *(Aug 2024 - Present)*  
 - Built IRS tax calculation engine for federal and state compliance
 - Developed AI-powered strategy suggestion engine using LLMs and RAG
 - Full-stack development with Next.js and Supabase
 
-**Software Development Engineer** @ Lanex Corporation *(Sep 2023 - Jun 2024)*  
+**Software Development Engineer** @ Lanex Corporation, Metro Cebu, Philippines *(Sep 2023 - Jun 2024)*  
 - Created management systems using Next.js, GraphQL, Prisma, and Hasura
 - Developed Android applications using Kotlin and GraphQL for Japanese clients
 - Optimized filtering and query APIs using Nuxt, Laravel, and JSON:API
